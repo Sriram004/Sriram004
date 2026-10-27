@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sriram Sowmyan — Cybersecurity and Software Engineering</title>
+  <desc id="desc">Custom animated dark terminal banner with neon green scanning lines, circuit paths, and cybersecurity profile text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#030806"/>
+      <stop offset="55%" stop-color="#071b11"/>
+      <stop offset="100%" stop-color="#0b3320"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#39ff14" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#39ff14" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#39ff14" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#39ff14" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect x="0" y="0" width="1200" height="300" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <g fill="none" stroke="#39ff14" stroke-opacity=".38" stroke-width="1.5">
+      <path d="M0 70H120L150 100H245"/>
+      <path d="M0 84H90L112 106H178"/>
+      <path d="M1200 55H1085L1058 82H990L962 110H900"/>
+      <path d="M1200 75H1135L1105 105H1040"/>
+      <path d="M0 240H95L120 215H190"/>
+      <path d="M1200 235H1090L1060 205H1000"/>
+      <path d="M930 0V35L905 60V95"/>
+      <path d="M250 300V265L278 237H320"/>
+    </g>
+    <g fill="#39ff14" opacity=".8">
+      <circle cx="120" cy="70" r="3"/><circle cx="245" cy="100" r="3"/>
+      <circle cx="900" cy="110" r="3"/><circle cx="990" cy="55" r="3"/>
+      <circle cx="190" cy="215" r="3"/><circle cx="1000" cy="205" r="3"/>
+    </g>
+    <g opacity=".2" fill="#39ff14" font-family="monospace" font-size="12">
+      <text x="34" y="130">01010011 01000101 01000011</text>
+      <text x="34" y="148">TRACE::DETECTION_PIPELINE</text>
+      <text x="920" y="145">STATUS: MONITORING</text>
+      <text x="920" y="163">ACCESS: AUTHORIZED</text>
+      <text x="34" y="190">[ SYS ] [ NET ] [ AI ] [ SEC ]</text>
+    </g>
+    <rect x="32" y="30" width="8" height="8" rx="2" fill="#39ff14"/>
+    <text x="49" y="39" fill="#a7ff9a" font-family="monospace" font-size="12" letter-spacing="3">SECURE SYSTEMS // BUILDING IN PUBLIC</text>
+    <g filter="url(#softGlow)">
+      <text x="600" y="116" fill="#eaffea" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="5">HELLO, I'M</text>
+      <text x="600" y="166" fill="#39ff14" text-anchor="middle" font-family="monospace" font-weight="700" font-size="42" letter-spacing="2">SRIRAM SOWMYAN</text>
+    </g>
+    <text x="600" y="204" fill="#c6f7cc" text-anchor="middle" font-family="monospace" font-size="16">CYBERSECURITY  •  SOFTWARE ENGINEERING  •  AI</text>
+    <g>
+      <rect x="440" y="228" width="320" height="30" rx="15" fill="#06150c" stroke="#39ff14" stroke-opacity=".65"/>
+      <circle cx="459" cy="243" r="4" fill="#39ff14">
+        <animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="600" y="248" fill="#9bff91" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="2">DETECT  •  BUILD  •  SECURE</text>
+    </g>
+    <rect x="-500" y="0" width="260" height="300" fill="url(#glow)" opacity=".2">
+      <animate attributeName="x" from="-500" to="1250" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="0" width="1200" height="2" fill="#39ff14" opacity=".7">
+      <animate attributeName="y" values="0;298;0" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="12" y="12" width="1176" height="276" rx="14" fill="none" stroke="#39ff14" stroke-opacity=".35"/>
+    <path d="M0 278H360L380 258H820L840 278H1200" fill="none" stroke="#39ff14" stroke-opacity=".45"/>
+  </g>
+</svg>
