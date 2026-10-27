@@ -60,6 +60,18 @@
 
 </div>
 
+### 🎛️ Skills Snapshot
+
+| Area | Focus |
+|---|---|
+| Software development | Python, Java, C, JavaScript |
+| APIs & web | FastAPI, Django |
+| Security | Detection engineering, malware analysis concepts, security automation |
+| Data & AI | Machine learning, TensorFlow, data processing |
+| Platforms & tools | Linux, Git, Docker, AWS |
+
+<sub>Skills listed reflect areas of experience and learning; no proficiency scores are implied.</sub>
+
 ## 🚀 Featured Builds
 
 <table>
@@ -97,6 +109,10 @@ OTP verification project.
 </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/Sriram004?tab=repositories"><img src="https://img.shields.io/badge/More_Projects-View_All_Repositories-39FF14?style=for-the-badge&logo=github&logoColor=101010" alt="View all repositories" /></a>
+</p>
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -106,6 +122,14 @@ OTP verification project.
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram004&layout=compact&theme=merko&hide_border=true" alt="Most used languages" />
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sriram004&theme=green&hide_border=true&area=true" alt="Contribution activity graph" />
 </div>
+
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sriram004/Sriram004/output/profile-green-animate.svg" alt="Animated 3D GitHub contribution calendar" width="100%" />
+</div>
+
+<sub>The 3D calendar appears after the GitHub Actions workflow runs successfully and publishes the generated SVG to the output branch.</sub>
 
 ## 🐍 Contribution Animation
 
