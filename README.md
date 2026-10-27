@@ -113,6 +113,26 @@ OTP verification project.
   <a href="https://github.com/Sriram004?tab=repositories"><img src="https://img.shields.io/badge/More_Projects-View_All_Repositories-39FF14?style=for-the-badge&logo=github&logoColor=101010" alt="View all repositories" /></a>
 </p>
 
+### ⭐ Project Spotlight
+
+<div align="center">
+  <a href="https://github.com/Sriram004/Detectra-nextgen-xdr"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sriram004&repo=Detectra-nextgen-xdr&theme=merko&hide_border=true" alt="Detectra XDR repository card" /></a>
+  <a href="https://github.com/Sriram004/StormSense-DDoS-Early-Prediction-System"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sriram004&repo=StormSense-DDoS-Early-Prediction-System&theme=merko&hide_border=true" alt="StormSense repository card" /></a>
+  <br/>
+  <a href="https://github.com/Sriram004/AI-detection-Engineer-Platform"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sriram004&repo=AI-detection-Engineer-Platform&theme=merko&hide_border=true" alt="AI detection engineering repository card" /></a>
+  <a href="https://github.com/Sriram004/CloudSentinel-AI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sriram004&repo=CloudSentinel-AI&theme=merko&hide_border=true" alt="CloudSentinel AI repository card" /></a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/Sriram004?tab=repositories"><img src="https://img.shields.io/badge/More_Projects-View_All_Repositories-39FF14?style=for-the-badge&logo=github&logoColor=101010" alt="View all repositories" /></a>
+</p>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sriram004&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" width="100%" />
+</div>
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -139,6 +159,12 @@ OTP verification project.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sriram004/Sriram004/output/snake.svg" />
     <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Sriram004/Sriram004/output/snake.svg" width="100%" />
   </picture>
+</div>
+
+## 💬 Developer Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Developer quote card" />
 </div>
 
 <details>
