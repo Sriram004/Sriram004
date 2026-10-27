@@ -241,9 +241,9 @@ OTP verification project.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sriram004/Sriram004/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sriram004/Sriram004/output/snake.svg" />
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Sriram004/Sriram004/output/snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sriram004/Sriram004/snake-output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sriram004/Sriram004/snake-output/snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Sriram004/Sriram004/snake-output/snake.svg" width="100%" />
   </picture>
 </div>
 
