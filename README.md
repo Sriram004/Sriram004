@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06120B,50:0B3D2E,100:39FF14&height=190&section=header&text=SRIRAM%20SOWMYAN&fontSize=42&fontColor=E8FFE8&fontAlignY=36&desc=CYBERSECURITY%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI&descSize=14&descAlignY=58&animation=fadeIn" alt="Animated neon green profile banner" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sriram004/Sriram004/main/assets/cyber-banner.svg" alt="Animated custom cybersecurity banner for Sriram Sowmyan" width="100%" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=Cybersecurity+%7C+Software+Engineering;Building+AI-powered+security+tools;Detection+Engineering+%7C+Cloud+Security;Turning+ideas+into+working+projects" alt="Animated typing introduction" />
 
