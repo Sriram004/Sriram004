@@ -48,6 +48,90 @@
 </tr>
 </table>
 
+## 🎓 Education
+
+**SRM Institute of Science & Technology** · Chennai, India  
+B.Tech, Computer Science and Engineering (Cyber Security) · Aug 2022 – May 2026  
+**CGPA:** 9.55/10
+
+## 💼 Experience
+
+### Security Operations Center Analyst · SHIPEZ
+*May 2026 – Present · Hybrid, India*
+- Monitor and analyze security events using Splunk and Microsoft Sentinel across endpoint, network, and cloud environments.
+- Investigate alerts, analyze logs and indicators of compromise, and support incident triage and escalation.
+- Develop dashboards and detection rules to improve security visibility and detection coverage.
+- Support investigation workflows, technical documentation, and monitoring improvements.
+
+### Security Operations Center Analyst Intern · Saksoft Limited
+*Oct 2025 – Apr 2026 · India*
+- Analyzed security alerts, endpoint activity, network traffic, and logs to support investigations.
+- Performed IOC analysis, alert triage, and threat investigation.
+- Used Wireshark, Nessus, and Metasploit for network analysis and vulnerability assessment.
+
+### Firmware Engineering Intern · ReLU Technologies
+*Dec 2024 – May 2025 · India*
+- Developed and debugged C/C++ and Python components in embedded environments.
+- Worked with UART, I2C, and SPI interfaces for hardware–software integration and troubleshooting.
+
+### Software Engineer Intern · COGTIS Technologies
+*May 2023 – Aug 2023 · India*
+- Developed 12+ REST API endpoints using Python/FastAPI and Node.js.
+- Worked with PostgreSQL and MongoDB for backend and database operations.
+- Built reusable backend components and supported debugging, testing, and version control.
+
+## 🔬 Research & Technical Projects
+
+### Encrypted Traffic Malware Detection System
+*Python · TLS fingerprinting · JA3 · Network analysis · Machine learning*
+- Designed an approach to identify potential malware in encrypted HTTPS traffic without decrypting payloads, using TLS/JA3 fingerprints and flow-level features.
+- Explored packet timing, connection behavior, and encrypted traffic metadata with a flow-based machine-learning model.
+
+### Federated Explainable AI for Cybersecurity
+*Python · Federated learning · Explainable AI*
+- Explored federated learning and explainable AI techniques for privacy-aware cybersecurity analytics.
+- Examined model predictions and security-relevant features to improve interpretability of threat detection.
+
+### ML-Based Malware Detection
+*Python · TensorFlow · scikit-learn*
+- Developed machine-learning models to classify potentially malicious files using extracted features.
+- Applied preprocessing, feature engineering, and model evaluation.
+[View repository](https://github.com/Sriram004/Malware-Detection-Using-Machine-Learning)
+
+### Full-Stack Task Management Application
+*FastAPI · PostgreSQL · React*
+- Developed a full-stack application with REST APIs, authentication, task management, input validation, and database operations.
+[Explore repositories](https://github.com/Sriram004?tab=repositories)
+
+### Network Monitoring and Analysis System
+*Python · Socket programming · TCP/IP*
+- Built a network monitoring system to analyze TCP/IP communication and network activity.
+- Implemented monitoring and alerting workflows to identify abnormal network behavior.
+
+## 🏅 Achievement
+
+- **Winner — Bug Bounty Competition**, Cyber Carnival 2025, SRM Ramapuram, Chennai.
+
+## 📚 Publications
+
+- **ML-Based Malware Detection Using Compact Data Learning** — research on feature reduction and machine-learning models including Random Forest, CNN, and Gradient Boosting Decision Trees, evaluated on the AndroZoo dataset.
+- **Detecting Malicious TLS Traffic Without Decryption: A Leakage-Aware Pipeline with Handshake Fingerprints and Causal Behavioural Features** — research on encrypted TLS traffic detection without payload decryption.
+
+## 📜 Certifications & Courses
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- CompTIA Security+
+- Microsoft Certified: Security Operations Analyst Associate (SC-200)
+- Fortinet Certified Associate Cybersecurity
+- Google Security Operations – SOAR Developer
+- Python and SQL — HackerRank
+- AWS Cloud Practitioner
+- Splunk Engineer — LetsDefend
+
+<sub>Certification names are reproduced from the supplied resume.</sub>
+
+---
+
 ## 🛠️ Technology Arsenal
 
 <div align="center">
